@@ -1,0 +1,8 @@
+<div class="flex h-screen">
+  <div class="bg-purple-500 w-60">
+    sidenav
+  </div>
+  <div class="bg-gray-400 flex-auto">
+    content
+  </div>
+</div>
